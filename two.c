@@ -1,5 +1,3 @@
-/* Bu işaret ile başlarsak yorum satırı*/
-
 /*# işareti ile başlayn  kütüphane ekleme*/
 #include <stdio.h>
 
